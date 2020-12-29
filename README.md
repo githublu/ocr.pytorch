@@ -27,7 +27,9 @@ Recognition is based on [CRNN](http://arxiv.org/abs/1507.05717), some codes are 
 
 ### Test
 Download pretrained models from [Baidu Netdisk](https://pan.baidu.com/s/1yllO9hBF8TgChHJ7i3WobA) (extract code: u2ff) or [Google Driver](https://drive.google.com/open?id=1hRr9v9ky4VGygToFjLD9Cd-9xan43qID)
-and put these files into checkpoints.
+and put these files into checkpoints.  
+
+backup weight saved in [google drive](https://drive.google.com/drive/folders/1m72YE-yGhVMN5Wsdkq0gf5GYh5H0xezV)  
 Then run
 >python3 demo.py
 
